@@ -1,6 +1,5 @@
 import java.util.*;
 
-
 public class Example4_11 {
 	
 	public static void main (String[] args) {
